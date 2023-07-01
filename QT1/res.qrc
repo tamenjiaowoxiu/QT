@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/kakaxi.png</file>
+        <file>res/shoulijian.png</file>
+        <file>res/Kakaxi.png</file>
+        <file>res/Shoulijian1.png</file>
+        <file>res/kakaxi-removebg-preview.png</file>
+        <file>res/kakaxi_left.png</file>
+        <file>res/enemy_left.png</file>
+        <file>res/enemy_right.png</file>
+        <file>res/tile72.png</file>
+        <file>res/tile73.png</file>
+        <file>res/tile108.png</file>
+        <file>res/tile110.png</file>
+        <file>res/tile30.png</file>
+        <file>res/tile31.png</file>
+        <file>res/tile86.png</file>
+        <file>res/tile87.png</file>
+        <file>res/sky.png</file>
+        <file>res/senlin.png</file>
+        <file>res/tile42.png</file>
+        <file>res/JUMP_left.png</file>
+        <file>res/JUMP_right.png</file>
+        <file>res/kakaxi_left1.png</file>
+        <file>res/water1.png</file>
+        <file>res/water2.png</file>
+        <file>res/water3.png</file>
+        <file>res/water4.png</file>
+        <file>res/tile63.png</file>
+        <file>res/tile68.png</file>
+        <file>res/tile88.png</file>
+        <file>res/kakaxi_right.png</file>
+        <file>res/tile52.png</file>
+        <file>res/tile76.png</file>
+        <file>res/tile11.png</file>
+        <file>res/tile39.png</file>
+        <file>res/dead.png</file>
+        <file>res/deaded.png</file>
+        <file>res/restart.png</file>
+        <file>res/key.png</file>
+        <file>res/success.png</file>
+        <file>res/win.jpg</file>
+        <file>res/yuanp.mp3</file>
+        <file>res/yuanp(1).wav</file>
+    </qresource>
+</RCC>
