@@ -7,7 +7,7 @@
 感谢三连！
 ps：（有无大佬帮忙改一下里面的跳跃和下落逻辑！！！灰常感谢）
 
-英文
+英文\n
 QT-based 2d side-scrolling mini-game
 This is the game of QT engine, simple logic, friendly gameplay, perfect for novices learning C++ and QT.
 PS:(If you can, can you help me modify the logic of jumping and falling)
